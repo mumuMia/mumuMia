@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mumuMia
-- 👀 I’m interested in computer vision, machine learning. 
+- 👀 I’m interested in computer vision and machine learning. 
 
 
 <!---
